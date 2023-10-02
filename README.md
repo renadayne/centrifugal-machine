@@ -1,11 +1,9 @@
-<center>
+<h1 align="center">
+    Centrifugal Machine
+</h1>
 
- # Centrifugal Machine - MyLab Project
-</center>
-<center>
+ <p align="center">Centrifugal Machine for Laboratory </p>
  
- Centrifugal Machine for Laboratory 
-</center>
-<p align="center">
-  <img width="600" height="200" src="![full](https://github.com/renadayne/centrifugal_machine/assets/78185992/6bc98838-4329-4e53-b6d7-09c1c1af3c4c)">
-</p>
+ <p align="center"><img width="60%" src="https://github.com/renadayne/centrifugal_machine/assets/78185992/01de0e65-48f0-4854-ac01-df9515d8d588"></a></p>
+ 
+
